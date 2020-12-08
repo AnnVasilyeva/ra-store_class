@@ -1,1 +1,3 @@
-# ra-store_class
+# Страница интернет-магазина на React
+
+## Class-based component
